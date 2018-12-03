@@ -570,3 +570,89 @@ background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,4
     background-color: rgba(255, 255, 255, 0.5);
 }
 /* -----------VIDEO--------- */
+
+.videoparent{
+  width: 100%;
+  max-width: 1920px;
+  height: 700px;
+  overflow: hidden;
+  margin: 0 auto;
+  position: relative;
+}
+#videochild {
+  -o-object-fit: contain;
+  object-fit: cover;
+  position: absolute;
+  z-index: 0;
+}
+#videotext{
+width: 552px;
+  top: 400px;
+  left: 685px;
+  position: absolute;
+    z-index: 1;
+}
+#videotext h2{
+  font-family: Raleway;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+}
+#videotext p{
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+  text-align: center;
+
+}
+#videotext>p>span{
+  font-family: Montserrat;
+  color: #c7b299;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+}
+/* Devices */
+.iPhone{
+float: right;
+margin-top: 79px;
+}
+.Devices h2{
+  font-family: Raleway;
+  color: #55555;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: left;
+  margin: 195px 0px 0px 15px;
+}
+.Devices p{
+  font-family: Montserrat;
+  color: #8c8c8c;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+  text-align: left;
+  margin: 40px 0px 0px 15px;
+}
+.Devices ul{
+margin: 45px 0px 0px 64px;
+}
+.Devices ul li{
+list-style-type: none;
+}
+.Devices a{
+  font-family: Montserrat;
+  color: #8c8c8c;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 32px;
+  text-align: left;
+  text-decoration: none;
+}
+.Devices a:hover{
+  text-decoration: none;
+}
