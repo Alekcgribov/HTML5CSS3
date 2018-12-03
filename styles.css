@@ -79,7 +79,7 @@ list-style-image: url('icons/02.png');
     position: absolute;
     width: 1920px;
     height: 1080px;
-    background: sss(to right, rgba(17, 17, 17, 70%) 0, rgba(17, 17, 17, 70%) 100);
+    background: linear-gradient(to right, rgba(17, 17, 17, 0.7) 0, rgba(17, 17, 17, 0.7) 100%);
 }
 
 /*---------heading-------------------------*/
