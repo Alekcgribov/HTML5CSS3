@@ -316,7 +316,7 @@ list-style-image: url('icons/02.png');
     position: absolute;
     z-index: 1;
     left: 0px;
-    bottom: 0px;    
+    bottom: 0px;
     transition: all 3s linear;
 }
 
@@ -493,7 +493,7 @@ background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,4
     color: #ffffff;
 }
 #Projects_articl_1:hover p {
- color: #c7b299;   
+ color: #c7b299;
 }
 #Projects_articl_2:hover {
 background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,43,41, 1), rgba(51,43,41, 0.5)), url(img/boock1.png) no-repeat left top, linear-gradient(#332b29, #332b29)
@@ -503,7 +503,7 @@ background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,4
     color: #ffffff;
 }
 #Projects_articl_2:hover p {
- color: #c7b299;   
+ color: #c7b299;
 }
 #Projects_articl_3:hover {
 background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,43,41, 1), rgba(51,43,41, 0.5)), url(img/boock2.png) no-repeat left top, linear-gradient(#332b29, #332b29)
@@ -513,7 +513,7 @@ background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,4
     color: #ffffff;
 }
 #Projects_articl_3:hover p {
- color: #c7b299;   
+ color: #c7b299;
 }
 #Projects_articl_4:hover {
 background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,43,41, 1), rgba(51,43,41, 0.5)), url(img/boock3.png) no-repeat left top, linear-gradient(#332b29, #332b29)
@@ -523,7 +523,7 @@ background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,4
     color: #ffffff;
 }
 #Projects_articl_4:hover p {
- color: #c7b299;   
+ color: #c7b299;
 }
 #Projects_articl_5:hover {
 background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,43,41, 1), rgba(51,43,41, 0.5)), url(img/boock4.png) no-repeat left top, linear-gradient(#332b29, #332b29)
@@ -533,7 +533,7 @@ background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,4
     color: #ffffff;
 }
 #Projects_articl_5:hover p {
- color: #c7b299;   
+ color: #c7b299;
 }
 #Projects_articl_6:hover {
 background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,43,41, 1), rgba(51,43,41, 0.5)), url(img/boock5.png) no-repeat left top, linear-gradient(#332b29, #332b29)
@@ -543,7 +543,7 @@ background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,4
     color: #ffffff;
 }
 #Projects_articl_6:hover p {
- color: #c7b299;   
+ color: #c7b299;
 }
 #Projects_push {
     display: block;
@@ -569,3 +569,4 @@ background:url(icons/Hover.png) no-repeat 135px 100px, linear-gradient(rgba(51,4
     font-weight: 700;
     background-color: rgba(255, 255, 255, 0.5);
 }
+/* -----------VIDEO--------- */
